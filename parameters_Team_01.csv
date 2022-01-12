@@ -1,0 +1,13 @@
+id,var_name,value,unit,reference,Comment,tag_1,tag_2,component,,Description
+1,number_of_windturbines,12,1,,,,,wind_turb,,Number of Windturbines
+2,number_of_chps,3,1,,,,,chp,,Number of CHP's
+3,number_of_boilers,1,1,,,,,boiler,,Number of Boilers
+4,number_of_PV_pp,5,1,,,,,PV_pp,,Open-field photovoltaic power plant
+5,number_of_heat_pumps,5,1,,,,,heat_pump,,Open-field photovoltaic power plant
+6,area_PV,4,ha,,,,,PV,,Rooftop photovoltaic
+7,area_solar_th,4,ha,,,,,solart_th,,Rooftop solar thermal
+8,capacity_electr_storage,2,daily_demand,,,,capacity,storage_el,,Electrical storage  capacity
+9,capacity_thermal_storage,2,daily_demand,,,,capacity,storage_th,,Thermal storage capacity
+10,number_of_electrolysers,2,1,,,,,electrolyser,,Number of Electrolysers
+11,capacity_hydrogen_storage,1,daily_demand,,,,capacity,storage_h2,,Hydrogen storage  capacity
+12,number_of_Hydrogen_SMR,0.5,1,,,,,Hydrogen SMR,,Hydrogen SMR plant
